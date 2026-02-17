@@ -1,6 +1,4 @@
-# FUTURE_ML_02 — Support Ticket Classification & Prioritization
-
-## 👨‍💻 Future Interns — Machine Learning Track (ML)
+# Support Ticket Classification & Prioritization
 
 This project was developed as part of the **Future Interns Machine Learning Internship**.
 
@@ -81,9 +79,9 @@ This system demonstrates how Machine Learning can improve support operations:
 
 ## 📂 Repository Structure
 
-FUTURE_ML_02/
+Support Ticket Classification & Prioritization/
 ├── notebooks/
-│ └── Task2_Ticket_Classification.ipynb
+│ └── Ticket_Classification.ipynb
 ├── outputs/
 │ ├── category_confusion_matrix.png
 │ ├── priority_confusion_matrix.png
@@ -143,11 +141,6 @@ notebooks/Task2_Ticket_Classification.ipynb
 - Active learning for continuous improvement
 
 ---
-
-## ✨ Internship Submission
-
-Track Code: **ML**  
-Task: **FUTURE_ML_02**
 
 ---
 
